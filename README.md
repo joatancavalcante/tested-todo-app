@@ -9,6 +9,6 @@ This is a react native project that uses:
 
 <br><br>
 
-![Gravação de Tela 2023-07-15 às 14 41 15](https://github.com/joatancavalcante/tested-todo-app/assets/7294833/b2272867-78b1-4147-81e7-28c56840174a)
+![TodoApp](https://github.com/joatancavalcante/tested-todo-app/assets/7294833/ecd5d317-218c-4504-af13-a1769519d0ab)
 
 
